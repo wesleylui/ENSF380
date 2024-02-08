@@ -1,11 +1,10 @@
+package Week4;
 
 /*
 Copyright Ann Barcomb and Emily Marasco, 2023
 Licensed under GPL v3
 See LICENSE.txt for more information.
 */
-
-package edu.ucalgary.oop;
 
 import org.junit.Test;
 import org.junit.Assert;
