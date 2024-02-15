@@ -3,7 +3,7 @@ Copyright Ann Barcomb and Emily Marasco, 2023
 Licensed under GPL v3
 See LICENSE.txt for more information.
 */
-package Week6/Lesson12Inheritance;
+package Week6.Lesson12Inheritance;
 
 class Animal {
 	private int age;
